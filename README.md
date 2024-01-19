@@ -39,3 +39,12 @@ management style
 | flyway    | OO             | XX              |
 | dbmate    | OO             | XX              |
 | prisma    | OO             | OO              |
+
+database GUI
+
+|           | database GUI |
+|-----------|--------------|
+| liquibase | XX           |
+| flyway    | XX           |
+| dbmate    | XX           |
+| prisma    | OO           |
