@@ -1,0 +1,9 @@
+[flyway]
+locations = ["filesystem:migrations"]
+
+
+[environments.default]
+locations = ["filesystem:migrations"]
+url = "jdbc:mysql://127.0.0.1:3306/dbmt_flyway"
+user = "root"
+password = "root"
